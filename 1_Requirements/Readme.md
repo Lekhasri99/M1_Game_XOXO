@@ -51,23 +51,19 @@ High Level Requirements
 -------------------------------------------------------------------
 
 |ID   |	            Description	                     |   Status    |
---------------------------------------------------------------------
+|-----|----------------------------------------------|-------------|
 |HR01 |	Player1 has to put "X"	                     | Implemented | 
---------------------------------------------------------------------
 |HR02 |	Player2 has to put "O"                       | Implemented |
---------------------------------------------------------------------
 |HR03 |	Player1 and 2 has to create his/her name     | Future      |
---------------------------------------------------------------------
 |HR04 |	Players should know who wins                 | Implemented |
---------------------------------------------------------------------
 |HR05 |	Players should know if draw occurs           | Implemented |
---------------------------------------------------------------------
+
 
 Low level Requirements:
 -----------------------------------------------------------------------
 
 |ID	  |                    Description                                |	Status (Implemented/Future)|
-----------------------------------------------------------------------------------------------------
+|-----|---------------------------------------------------------------|----------------------------|
 |LR01 |	If player1 press (1-9) "X" should be replaced in that square  |	Implemented                |
 |LR02 |	If player2 press (1-9) "O" should be replaced in that square  |	Implemented                |
 |LR03 |	If any player selects the already filled square show "INVALID"|	Future                     |
